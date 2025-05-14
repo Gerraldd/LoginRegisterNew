@@ -167,7 +167,6 @@ class MainActivity : AppCompatActivity() {
                         tvRole.text = "Role = $role"
                     }
                 } else {
-                    logoutAndRedirectToLogin()
                     Toast.makeText(this@MainActivity, "Gagal mendapatkan User", Toast.LENGTH_SHORT).show()
                 }
             }
