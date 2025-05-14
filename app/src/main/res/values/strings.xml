@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Login-Register</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="halaman_register">Register</string>
+    <string name="halaman_activity">Login</string>
+    <string name="login">Login</string>
+    <string name="arahLogin">Halaman Login</string>
+    <string name="beranda">Beranda</string>
+    <string name="profil">Profil</string>
+    <string name="pengaturan">Pengaturan</string>
+    <string name="logoutButton">Logout</string>
+</resources>

@@ -1,0 +1,5 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_home"    android:title="@string/beranda"    android:icon="@drawable/ic_home"/>
+    <item android:id="@+id/nav_profile" android:title="@string/profil"     android:icon="@drawable/ic_person"/>
+    <item android:id="@+id/nav_settings" android:title="@string/pengaturan" android:icon="@drawable/ic_settings"/>
+</menu>
